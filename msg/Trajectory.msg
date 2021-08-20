@@ -1,0 +1,1 @@
+dynamixel_gripper_control/TrajectoryPoint[] points
